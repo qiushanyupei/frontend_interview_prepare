@@ -1,1 +1,4 @@
-# frontend_interview_prepare
+# 跨域问题
+同源策略会阻止一个域的javascript脚本和另外一个域的内容进行交互。
+
+同源指的是两个页面具有相同的协议（protocol），主机（host）（域名：IP地址的字符串化/IP地址）和端口号（port）
